@@ -35,6 +35,30 @@ dependencies:
   - r-sparsesvm
   - r-clustergeneration
   - r-sautomata
+  - r-arules
+  - r-arulescba
+  - r-arulessequences
+  - r-cloudml
+  - r-dbplyr
+  - r-domino
+  - r-fastrweb
+  - r-h2o
+  - r-leaps
+  - r-onnx
+  - r-plumber
+  - r-pmml
+  - r-pmmltransformations
+  - r-rserve
+  - r-sparklyr
+  - r-sparkr
+  - r-tidytext
+  - r-tidyselect
+  - r-tidyverse
+  - r-tilting
+  - r-xgboost
+  - r-xgobi
+  - r-xml
+  - r-yhatr
   - libgcc
   - gxx_linux-64
   - python                          
