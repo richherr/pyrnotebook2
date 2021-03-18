@@ -56,8 +56,16 @@ dependencies:
   - r-tidyverse
   - r-tilting
   - r-xgboost
+  - r-bnlearn
+  - r-bnclassify
+  - r-bnn
+  - r-boolnet
+  - r-ggm
+  - r-ggmridge
+  - r-ggmselect
   - r-xgobi
   - r-xml
+  - r-mgcv
   - r-yhatr
   - libgcc
   - gxx_linux-64
