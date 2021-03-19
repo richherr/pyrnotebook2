@@ -96,6 +96,37 @@ dependencies:
   - r-gb
   - r-gcdnet
   - r-gcd
+  - r-glmpath
+  - r-gamboost
+  - r-gmmboost
+  - r-jousboost
+  - r-l2boost
+  - r-clogitboost
+  - r-compboost
+  - r-deepboost
+  - r-fastadaboost
+  - r-aucrf
+  - r-partitionmap
+  - r-rfinterval
+  - r-rlt
+  - r-softrandomforest
+  - r-spatialml
+  - r-varselrf
+  - r-blockforest
+  - r-imputemissings
+  - r-multivariaterandomforest
+  - r-rfutilities
+  - r-auc
+  - r-eive
+  - r-frbs
+  - r-gaselect
+  - r-genalg
+  - r-glmulti
+  - r-kofnga
+  - r-rgenoud
+  - r-g3viz
+  - r-gadag
+  - r-gafit
   - libgcc
   - gxx_linux-64
   - python                          
