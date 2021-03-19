@@ -127,6 +127,7 @@ dependencies:
   - r-g3viz
   - r-gadag
   - r-gafit
+  - r-feather
   - libgcc
   - gxx_linux-64
   - python                          
