@@ -67,7 +67,7 @@ dependencies:
   - r-xml
   - r-mgcv
   - r-yhatr
-  - r-rbart
+  - r-bart
   - r-biglm
   - r-biglmm
   - r-bigmap
